@@ -1,0 +1,31 @@
+Variable Name,Data Type,Description
+SeniorCitizen,int64,---
+tenure,int64,---
+MonthlyCharges,float64,---
+TotalCharges,float64,---
+gender_Male,bool,---
+Partner_Yes,bool,---
+Dependents_Yes,bool,---
+PhoneService_Yes,bool,---
+MultipleLines_No phone service,bool,---
+MultipleLines_Yes,bool,---
+InternetService_Fiber optic,bool,---
+InternetService_No,bool,---
+OnlineSecurity_No internet service,bool,---
+OnlineSecurity_Yes,bool,---
+OnlineBackup_No internet service,bool,---
+OnlineBackup_Yes,bool,---
+DeviceProtection_No internet service,bool,---
+DeviceProtection_Yes,bool,---
+TechSupport_No internet service,bool,---
+TechSupport_Yes,bool,---
+StreamingTV_No internet service,bool,---
+StreamingTV_Yes,bool,---
+StreamingMovies_No internet service,bool,---
+StreamingMovies_Yes,bool,---
+Contract_One year,bool,---
+Contract_Two year,bool,---
+PaperlessBilling_Yes,bool,---
+PaymentMethod_Credit card (automatic),bool,---
+PaymentMethod_Electronic check,bool,---
+PaymentMethod_Mailed check,bool,---
